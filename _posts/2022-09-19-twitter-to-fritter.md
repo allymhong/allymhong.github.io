@@ -64,7 +64,7 @@ _**Indirect Stakeholders.**_ There are multiple roles in which people will be af
 
 3. Consumers of News Oulets + Other Social Media – despite the possibilities of spreading misinformation – even from verified governmental accounts (like Philly's Public Health department shown above), news articles and other social media outlets typically cite or screenshot Tweets to spread information and trends. As a typical reader of news articles myself, I would find Tweets embedded as a source of verified content – which [normalizes the readers' perception of Tweets as legitimate sources and gives Twitter that authority](https://www.niemanlab.org/2021/03/when-journalists-put-tweets-in-news-stories-do-they-transfer-too-much-power-to-twitter/){:target="_blank"}.
 
-_**Non-targeted Use.**_ Twitter has been used for unplanned or nefarious purposes. As mentioned above in the first role of indirect stakeholders, Twitter users who are out to blackmail, shame, or put others in harm can do so simply by doxxing, or spread private information about others. People have done so by leaking others' addresses, nude content, and .
+_**Non-targeted Use.**_ Twitter has been used for unplanned or nefarious purposes. As mentioned above in the first role of indirect stakeholders, Twitter users who are out to blackmail, shame, or put others in harm can do so simply by doxxing, or spreading private information about others. People have done so by leaking or threatening to leak others' addresses, nude content, and other sensitive data (credit card info, passwords, family info, etc.). Twitter has also gathered complaints on [Reddit threads](https://www.reddit.com/r/unpopularopinion/comments/gyf7tv/twitter_has_a_serious_child_porn_problem_and_no/){:target="_blank"} about its lack of banning accounts with child sexual exploitative and abusive content; these accounts are known to use certain hashtags to even trade or sell with other users. Recently, [Twitter has banned a total of 45k Indian accounts: 42k for promoting child porn and non-consensual nudity, and 2k or spreading terrorism](https://in.mashable.com/tech/37880/twitter-suspends-over-45k-indian-accounts-over-child-sexual-exploitation-non-consensual-nudity-repor){:target="_blank"}. Finally, even with all the CAPTCHA's to check if you're really a human, Twitter suffers from bots - [around 16.5 million of them](https://www.makeuseof.com/how-many-bots-on-twitter/){:target="_blank"}. To prevent these non-target issues, Fritter would ideally use two-factor authentication with phone numbers paired with more challenging CAPTCHA in order to prevent bot, hacker, terrorist, and exploitative accounts from being made – as well as come with a more efficient reporting system, as [Twitter takes up to 7 days to suspend accounts for violation](https://help.twitter.com/en/rules-and-policies/enforcement-options){:target="_blank"}.
 
 
 ## Time
@@ -99,14 +99,14 @@ _**User Experience of Values.**_
 ## Planning
 _**Choosing Interviewees.**_ When choosing interviewees and thinking of matching criteria, I quickly thought of Chiara from Los Angeles and Gideon from South Korea, my good friends who are active Twitter users.
 
-* Chiara is a 21-yo fashionista studying nursing in Los Angeles. She's a writer who enjoys reading Twitter threads and occassionally posts. She's your go-to person for popular trends, styles, and news – and she stayed active on Twitter throughout COVID. Chiara has also been active on TikTok and Instagram.
+* Chiara is a 21-yo fashionista studying nursing in Los Angeles. She's a writer who enjoys reading Twitter threads and occassionally posts. She's your go-to person for popular trends, styles, and news – and she stayed active on Twitter throughout COVID. Chiara has also been active on TikTok and Instagram. I planned to ask her specific questions on her usage of Twitter and various social media throughout a politically heightened time such as the rise of COVID, BLM protests, and the StopAsianHate movement.
 
-* Gideon is a 22-yo UCLA political science alumni from South Korea, well-versed in "Korean Twitter." He's also a prolific jazz musician, instrumentalist, and beat producer who has utilized social media to post music and create connections within the hip-hop and jazz scene. I knew that with his Twitter usage in the U.S. and South Korea, Gideon would have deep insight into the differences between the two Twitter cultures.
+* Gideon is a 22-yo UCLA political science alumni from South Korea, well-versed in "Korean Twitter." He's also a prolific jazz musician, instrumentalist, and beat producer who has utilized social media to post music and create connections within the hip-hop and jazz scene. I planned to delve into his different experiences within using Twitter in the U.S. and South Korea –  as he would have deep insight into the two Twitter cultures.
 
 [_**Interview Questions + Notes**_.](https://www.dropbox.com/s/a65kj2ra0tiyz5k/Interview%20Questions%20%2B%20Notes.pdf?dl=0){:target="_blank"} Not as organized as I'd like them to be - my handwriting was playing catch up with the interviewees' voices; thankfully they consented to recording, so I was able to backtrack and directly quote them. I also stuck loosely to the interview questions; because my interviewees and I were already close, I didn't need to "build rapport" from scratch – rather, I was able to kickstart into evoking stories after catching up with them. With these stories, I went with the flow and what questions felt right, rather than stick to the outline. 
 
 ## Interview: Chiara
-> "Twitter makes me feel in touch with reality."
+> "Twitter makes me feel in touch with reality." - Chiara
 
 
 _**Summary.**_
@@ -114,9 +114,7 @@ _**Summary.**_
 _**Synthesis.**_
 
 ## Interview: Gideon
-> "It's not that Twitter made [people] act a way, but Twitter exposed people who act like this. It's not that social media changes people, but it rather reveals people."
-
-Gideon 
+> "It's not that Twitter made [people] act a way, but Twitter exposed people who act like this. It's not that social media changes people, but it rather reveals people." - Gideon
 
 _**Summary.**_
 
