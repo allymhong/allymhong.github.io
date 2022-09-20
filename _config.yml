@@ -1,19 +1,19 @@
-title: Ally Minju's Kickin' Portfolio
+title: Ally's Saucy Site
 
 author:
   name: Ally Hong
   email: allyhong@mit.edu
 
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my saucy site, where you'll find all sorts of saucy projects, blogs, and even music!
 
 # set to true to show excerpts on the homepage
 show_excerpts: false 
 
 collections:
   projects:
+    output: true
+  posts:
     output: true
 
 # date format
@@ -30,9 +30,12 @@ social_links:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-# - about.md
+header_pages:
+- about.md
+- posts.md
+# - projects.md
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-relative-links
