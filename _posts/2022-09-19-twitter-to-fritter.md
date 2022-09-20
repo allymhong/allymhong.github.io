@@ -89,17 +89,28 @@ But with the factor of longevity - sustaining friendships (or enmities, if you p
 
     even if that means users may resort to [virtue signaling](https://dictionary.cambridge.org/us/dictionary/english/virtue-signalling){:target="_blank"}. Many relationships fell apart during the posting of the infamous [Blackout Tuesday](https://www.vice.com/en/article/93yadd/what-black-out-tuesday-can-teach-us-about-virtue-signaling){:target="_blank"} during the BLM movement - where many users were posting to demonstrate allyship, several were infurious about how those who posted were flooding hashtags and trends for vital information for protestors, and some were even breaking off connections with those who didn't post the square. It was messy, and I was relieved that I was off of social media at the time; though I'm definitely expecting more of these politics-based scenarios that may affect relationships within 5 years.
 
-2. Life Updates: with friends and family constantly updating their feed with their lives, or latest updates on other common interests (like K-pop stans with updated Jimin pictures), it allows for a continued conversation with each other. These life updates not only help users stay connected (no matter the distance), but allows for the strengthening of relationships over time.
+2. Life Updates: friends and family constantly updating their feed with their lives or latest updates on other common interests (like K-pop stans with the latest Jimin pictures) allows for continued conversations throughout time. These life updates not only help users stay connected virtually, but allows for the strengthening and growth of relationships - especially with Gen Z and common Twitter users beginning to adult.
 
-3. Inactivity: on the other hand, app inactivity would most likely fizzle out Twitter-based relationships - unless said relationships were maintained in other spaces.
+3. Inactivity: on the other hand, app inactivity would most likely fizzle out Twitter-based relationships - unless said relationships are maintained in other spaces.
 
 
 ## Pervasiveness
 _**Crossing National Boundaries.**_
-
+Challenges that Twitter encounters when used in other countries include:
+* Freedom of Speech and Banning "Propaganda": political, pro-Western posts in the U.S. may not be displayed in countries like China - creating inconsistency in information and world news communicated to users.
+* Lost in Translation: with distinct cultures already set in place within countries like South Korea, Reddit user r/loveonlyoung posts to ask for help on understanding [Korean Twitter slang](https://www.reddit.com/r/Korean/comments/ln94ak/korean_twitter_slang/){:target="_blank"}. With communities to reach out to, communication will be easier; but even as a native Korean speaker, I would've had a difficult time trying to jump into Korean Twitter due to its own developed culture. So for non-Korean speakers, even with a Translation feature, the slang and cultural practices would be more difficult to understand.
+* Differences in Policy: 
 
 _**Widespread Use.**_
+As the use of Twitter has spread to millions of users, interactions within the app have drastically changed. As Twitter continues to grow, three synergistic benefits will also become more powerful:
+1. Mass Awareness - Quick and Powerful World News: Tweets provide instantaneous news - which is powerful for emergency situations, such as fire evacuation routes; alerts for the stock market; and imperative world news. [Twitter is often reports faster than published news articles and other media](https://www.google.com/search?q=twitter+has+the+fastest+news&rlz=1C5CHFA_enUS1000US1000&oq=twitter+has+the+fastest+news&aqs=chrome..69i57j69i64.3350j0j1&sourceid=chrome&ie=UTF-8#:~:text=Is%20Twitter%20Really,02/26%20%E2%80%BA%20i...){:target="_blank"} - so it's beneficial for verified news outlets + governmental agencies to use Twitter to deliver news quickly.
+2. Advocation for People Groups (Minorities, Organizations, Businesses): with more users than ever before, and with synergistic mass awareness of people groups, typically underground causes, minorities, organizations, and businesses can push and meet goals for their calls to actions with bigger support systems + widespread awareness + advocacy.
+3. Outside-the-box Perspectives from All Around the World: those who have never had a platform to speak can now share their unique perspectives, cultures, and ideas on Twitter - allowing for diffusion, new conversations, and shared cultures.
 
+Three potential breakdowns (that we've already seen) also include:
+1. Mass Misinformation - Quicker than its Correction: 
+2. Cultural Appropriation - : 
+3. Loss of Voice for Individuals: with growth towards billions of users on Twitter, the design must account for all the voices speaking into feeds; with only a certain number of national and local hashtag trends, maybe it's time to make trends further personalized.
 
 
 ## Values
