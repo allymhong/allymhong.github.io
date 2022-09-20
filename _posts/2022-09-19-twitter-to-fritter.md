@@ -18,7 +18,7 @@ Learning about Twitter's strengths and shortcomings from personal experience, pr
 
 ## Outline of Analysis
 
-### I. [Value Sensitive Design (VSD)](#value-sensitive-design-vsd)
+### I. [Value Sensitive Design (VSD)](#i-value-sensitive-design-vsd)
 
 * [Stakeholders](#stakeholders)
     * Indirect Stakeholders
@@ -34,7 +34,7 @@ Learning about Twitter's strengths and shortcomings from personal experience, pr
     * User Experience of Values
 
 
-### II. [Interviews](#interviews)
+### II. [Interviews](#ii-interviews)
 * [Planning](#planning)
     * Choosing Interviewees
     * Interview Questions + Notes
@@ -89,32 +89,33 @@ But with the factor of longevity - sustaining friendships (or enmities, if you p
 
     even if that means users may resort to [virtue signaling](https://dictionary.cambridge.org/us/dictionary/english/virtue-signalling){:target="_blank"}. Many relationships fell apart during the posting of the infamous [Blackout Tuesday](https://www.vice.com/en/article/93yadd/what-black-out-tuesday-can-teach-us-about-virtue-signaling){:target="_blank"} during the BLM movement - where many users were posting to demonstrate allyship, several were infurious about how those who posted were flooding hashtags and trends for vital information for protestors, and some were even breaking off connections with those who didn't post the square. It was messy, and I was relieved that I was off of social media at the time; though I'm definitely expecting more of these politics-based scenarios that may affect relationships within 5 years.
 
-2. Life Updates: friends and family constantly updating their feed with their lives or latest updates on other common interests (like K-pop stans with the latest Jimin pictures) allows for continued conversations throughout time. These life updates not only help users stay connected virtually, but allows for the strengthening and growth of relationships - especially with Gen Z and common Twitter users beginning to adult.
+2. Life Updates: friends and family constantly updating their feed with their lives or latest updates on other common interests (like K-pop stans with the latest Jimin pictures) allows for continued conversations throughout time. These life updates not only help users stay connected virtually, but allows for the strengthening and growth of relationships - especially with Gen Z and young Twitter users beginning to adult.
 
-3. Inactivity: on the other hand, app inactivity would most likely fizzle out Twitter-based relationships - unless said relationships are maintained in other spaces.
+3. Inactivity: on the other hand, app inactivity would most likely fizzle out Twitter-based relationships over 5 years, unless said relationships are maintained in other spaces.
 
 
 ## Pervasiveness
 _**Crossing National Boundaries.**_
 Challenges that Twitter encounters when used in other countries include:
-* Freedom of Speech and Banning "Propaganda": political, pro-Western posts in the U.S. may not be displayed in countries like China - creating inconsistency in information and world news communicated to users.
-* Lost in Translation: with distinct cultures already set in place within countries like South Korea, Reddit user r/loveonlyoung posts to ask for help on understanding [Korean Twitter slang](https://www.reddit.com/r/Korean/comments/ln94ak/korean_twitter_slang/){:target="_blank"}. With communities to reach out to, communication will be easier; but even as a native Korean speaker, I would've had a difficult time trying to jump into Korean Twitter due to its own developed culture. So for non-Korean speakers, even with a Translation feature, the slang and cultural practices would be more difficult to understand.
-* Differences in Policy: 
+* Banning "Propaganda": political, pro-Western posts in the U.S. may not be displayed in countries like China - creating inconsistency in information and world news communicated to users - and the dividing of shared knowledge throughout the world. Continuing as we are may result in the separation of Twitter ecosystems, rather than pervasiveness across national boundaries.
+* Differences in Internet Policy: differences in another nation's Internet policies may limit app activity in certain countries; for example, India had changed Information Technology (IT) rules in the past year – and as a result, imposed takedown orders on Tweets and accounts; in response, [Twitter filed a lawsuit, claiming that New Delhi had abused its power to violate "the freedom of speech guaranteed to citizen-users of the platform."](https://techcrunch.com/2022/07/05/twitter-sues-india-government/){:target="_blank"} Navigating differences in Internet policy may require features to comply with governmental updates, to prevent future lawsuits.
+* Lost in Translation: with distinct cultures already set in place within countries like South Korea, Reddit user r/loveonlyoung posts to ask for help on understanding [Korean Twitter slang](https://www.reddit.com/r/Korean/comments/ln94ak/korean_twitter_slang/){:target="_blank"}. With communities to reach out to, communication will be easier; but even as a native Korean speaker, I would've had a difficult time trying to jump into Korean Twitter due to its own developed culture. So for non-Korean speakers, even with a Translation feature, the slang and cultural practices would be more difficult to understand. As these cultures develop furthermore without ease of introduction or diffusion, traveling Twitter users - including non-native residents of foreign countries - may stick to their native Twitter language, along with the foreign nation's Internet policies to prevent the same extent of rights they had initially: creating inconsistency across borders.
 
 _**Widespread Use.**_
 As the use of Twitter has spread to millions of users, interactions within the app have drastically changed. As Twitter continues to grow, three synergistic benefits will also become more powerful:
-1. Mass Awareness - Quick and Powerful World News: Tweets provide instantaneous news - which is powerful for emergency situations, such as fire evacuation routes; alerts for the stock market; and imperative world news. [Twitter is often reports faster than published news articles and other media](https://www.google.com/search?q=twitter+has+the+fastest+news&rlz=1C5CHFA_enUS1000US1000&oq=twitter+has+the+fastest+news&aqs=chrome..69i57j69i64.3350j0j1&sourceid=chrome&ie=UTF-8#:~:text=Is%20Twitter%20Really,02/26%20%E2%80%BA%20i...){:target="_blank"} - so it's beneficial for verified news outlets + governmental agencies to use Twitter to deliver news quickly.
+1. Mass Awareness - Quick and Powerful World News: Tweets provide instantaneous news - which is powerful for emergency situations, such as fire evacuation routes; alerts for the stock market; and imperative world news. [Twitter is often reports faster than published news articles and other media](https://www.google.com/search?q=twitter+has+the+fastest+news&rlz=1C5CHFA_enUS1000US1000&oq=twitter+has+the+fastest+news&aqs=chrome..69i57j69i64.3350j0j1&sourceid=chrome&ie=UTF-8#:~:text=Is%20Twitter%20Really,02/26%20%E2%80%BA%20i...){:target="_blank"} - so it's beneficial for verified news outlets + governmental agencies to use Twitter to deliver news quickly. With more users, they will be able to reach groups that were never reached before.
 2. Advocation for People Groups (Minorities, Organizations, Businesses): with more users than ever before, and with synergistic mass awareness of people groups, typically underground causes, minorities, organizations, and businesses can push and meet goals for their calls to actions with bigger support systems + widespread awareness + advocacy.
 3. Outside-the-box Perspectives from All Around the World: those who have never had a platform to speak can now share their unique perspectives, cultures, and ideas on Twitter - allowing for diffusion, new conversations, and shared cultures.
 
 Three potential breakdowns (that we've already seen) also include:
-1. Mass Misinformation - Quicker than its Correction: 
-2. Cultural Appropriation - : 
-3. Loss of Voice for Individuals: with growth towards billions of users on Twitter, the design must account for all the voices speaking into feeds; with only a certain number of national and local hashtag trends, maybe it's time to make trends further personalized.
+1. Mass Misinformation: apparently, fake news travels around quicker than its correction on Twitter; with more users - and scaled increase in Retweets of misinformation, it may be even more difficult to successfully filter out fake news media.
+2. Cultural Appropriation - Loss of Healthy Cultural Boundaries: with cultural practices shared and demonstrated to the public - and without clear boundaries set (or acknowledgement of such boundaries), cultural practices are easily emulated by other groups. An extreme example case includes that of Oli London, a British YouTuber, who identifies as "Korean" after undergoing 18 surgeries to look like Jimin:
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I fully identify as Korean after undergoing my final transitional surgeries. 🇰🇷</p>&mdash; Oli London (@OliLondonTV) <a href="https://twitter.com/OliLondonTV/status/1405491888979861507?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+3. Loss of Voice for Individuals: with growth towards billions of users on Twitter, the design must account for all the voices speaking into feeds; with only a certain limit of national and local hashtag trends, it may be time to make trends further personalized.
 
 
 ## Values
-Twitter's mission is to "[give everyone the power to create and share ideas and information instantly without barriers](https://investor.twitterinc.com/contact/faq/default.aspx#:~:text=The%20mission%20we%20serve%20as,a%20free%20and%20global%20conversation.){:target="_blank"}." It was harder to find a statement of their values.
+Twitter's mission is to "[give everyone the power to create and share ideas and information instantly without barriers](https://investor.twitterinc.com/contact/faq/default.aspx#:~:text=The%20mission%20we%20serve%20as,a%20free%20and%20global%20conversation.){:target="_blank"}." It was harder to find a clear statement of their values.
 
 Twitter, within its Terms of Service, states that users grant Twitter a license to make their ["content available to the rest of the world and to let others do the same,"](https://twitter.com/en/tos){:target="_blank"} demonstrated through their notable Retweet feature. 
 
