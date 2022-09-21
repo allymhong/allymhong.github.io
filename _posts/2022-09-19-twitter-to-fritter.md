@@ -198,18 +198,23 @@ Gideon started using Twitter in his first-year of high school in South Korea and
 
 Gideon noted that you could easily amass a following by simply Tweeting about hot trends on Twitter's hashtag board. In 2017, a Twitter debacle on the topic of feminism was so substantial that even South Korean celebrities had to give their two cents. Yoo Ah In, trivialized feminism in a Tweet - and Twitter blew up. Gideon believes that this debacle was so extensive that the South Korean sociocultural climate was all affected. When he Tweeted on the matter with a trending hashtag, he gained 1500 followers instantaneously.
 
-Unfortunately, he had to delete his Twitter account when he posted strongly opinionated Tweets on Korean Twitter during the BLM movement. As an avid listener of jazz, Gideon recalls his teacher telling him that jazz isn't generalized American music - rather, it is black music. Having studied the roots of the genre, he is quick to acknowledge the Afro-centric roots in hip hop and rap music. However, when BLM took social media two summers ago, Korean hip hop rappers tried to promote their music and take advantage of the market. When #StopAsianHate started trending shortly after, Korean hip hop artists [] came out to say that they didn't support BLM. Gideon was baffled; how could these K-hip-hop artists, after appropriating black culture by getting dreadlocks, incorporating ebonics, and greatly benefiting from shows like "Show Me The Money" (basically the K-hip-hop version of X Factor) - come out _against_ BLM? 
+Unfortunately, he had to delete his Twitter account when he posted strongly opinionated Tweets on Korean Twitter during the BLM movement. As an avid listener of jazz, Gideon recalls his teacher telling him that jazz isn't generalized American music - rather, it is black music. Having studied the roots of the genre, he is quick to acknowledge the Afro-centric roots in hip hop and rap music. However, when BLM took social media two summers ago, Korean hip hop rappers tried to promote their music and take advantage of the market. When #StopAsianHate started trending shortly after, Korean rappers like Owen Ovadoz came out to say that they didn't support BLM:
+
+> ![]["assets/images/owen.jpeg"]
+
+
+Gideon was baffled; how could these K-hip-hop artists, after appropriating black culture by getting dreadlocks, incorporating ebonics, and greatly benefiting from shows like "Show Me The Money" (basically the K-hip-hop version of X Factor) - come out _against_ BLM? 
 
 Gideon used his account to voice these concerns. He Tweeted out,
 > "Why don't we use platforms to promote BLM for equity? We should discuss and participate in this as partakers in Afrocentric cultures."
 
 He unsurprisingly received a lot of hate from K-Hip-Hop Twitter, but he retained support from his followers in K-Jazz Twitter, as users were more likely to understand the Afrocentric roots of jazz. But when he got into an intense argument in his Tweet's thread, the user on the other side actually found out the school Gideon went to and sent threats through DM's. Gideon grew paranoid and decided to delete his account as a result. 
 
-He rejoined Twitter with a new handle when he started attending school in UCLA; while there, he noticed the differences between Korean and U.S.-based Twitter. He noticed that 
+He rejoined Twitter with a new handle when he started attending school in UCLA in 2021; while there, he noticed the differences between Korean and U.S.-based Twitter. He learned of the origins of the #MeToo movement in America (which started in 2006 on MySpace) - and compared with the trending "indigenized" #MeToo on Korean Twitter in ~2018. By "indigenized," he meant that the culture and trends become molded to fit into Korean society. With its own global cultural market with #KPopTwitter, one of the largest subcultures of Twitter, he's observed that Korean Twitter often attracts new users – and doesn't need to reach to other cultures. Gideon roughly estimated that ~30% of U.S. Twitter / social media trends show up in hashtag boards and timelines, whereas the remaining ~70% includes self-started Korean trends.
 
-Later trends in Korean Twitter vs. US-based Twitter
-- Strict Policy with 14 yo Hannibal
-- no accounts from North Korean refugees
+In terms of differences in policy, Twitter in South Korea:
+* blocks any potential propaganda-like content from North Korea – hence, Gideon was unable to see posts from famous North Korean refugees until he came to the U.S.
+* requires a IPIN phone number verification + legally checks your DM's when provoked. Why? Well, after a [17-year-old girl kkidnapped and murdered an 8-year-old in Incheon, South Korea](https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C_%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D_%EC%82%B4%ED%95%B4_%EC%82%AC%EA%B1%B4){:target="_blank"} inspired by connections with Korean Hannibal Twitter (a community inspired by the show on Hannibal Lecter, the infamous cannibalistic serial killer), Korean Twitter policies enacted verification requirements and 
 
 What he admires about Twitter
 Cons with mob mentality and fake news stories
