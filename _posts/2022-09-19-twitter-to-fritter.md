@@ -189,21 +189,20 @@ What I do know is that Twitter's allowance of freedom of speech and "authenticit
 
 
 ## Interview: Gideon
-> "It's not that Twitter made [people] act a way, but Twitter exposed people who act like this. It's not that social media changes people, but it rather reveals people." - Gideon
+> "It's not that Twitter made [people] act this way, but Twitter exposed people who act like this. It's not that social media changes people, but it rather reveals people." - Gideon
 
 _**Summary.**_
 Gideon started using Twitter in his first-year of high school in South Korea and grew his music-based, beat promotion account to 60k followers, which was "surprisingly easy" for him. He compared how it was much more difficult to grow in the same scale on YouTube and Instagram, due to the platforms' requirements to create original content; he saw similarities with rapid growth and ease of content creation with TikTok. He noted that by his 70th Tweet, he had gained 3k followers on Twitter, whereas by his 70th video on YouTube, he had only amassed had 1k subscribers. Gideon acknowledged the pervasiveness of Twitter space, saying:
 
 > "No matter how niche you are, you can always find an audience on Twitter."
 
-Gideon noted that you could easily amass a following by simply Tweeting about hot trends on Twitter's hashtag board. In 2017, a Twitter debacle on the topic of feminism was so substantial that even South Korean celebrities had to give their two cents. Yoo Ah In, trivialized feminism in a Tweet - and Twitter blew up. Gideon believes that this debacle was so extensive that the South Korean sociocultural climate was all affected. When he Tweeted on the matter with a trending hashtag, he gained 1500 followers instantaneously.
+Gideon noted that you could easily amass a following by simply Tweeting about hot trends on Twitter's hashtag board. In 2017, a Twitter debacle on the topic of feminism was so substantial that even South Korean celebrities had to give their two cents. Yoo Ah In, trivialized feminism in a Tweet - and Twitter blew up. Gideon believes that this debacle was so extensive that the South Korean sociocultural climate was all affected. When he himself Tweeted on the matter with a trending hashtag, he gained 1500 followers instantaneously.
 
 Unfortunately, he had to delete his Twitter account when he posted strongly opinionated Tweets on Korean Twitter during the BLM movement. As an avid listener of jazz, Gideon recalls his teacher telling him that jazz isn't generalized American music - rather, it is black music. Having studied the roots of the genre, he is quick to acknowledge the Afro-centric roots in hip hop and rap music. However, when BLM took social media two summers ago, Korean hip hop rappers tried to promote their music and take advantage of the market. When #StopAsianHate started trending shortly after, Korean rappers like Owen Ovadoz came out to say that they didn't support BLM:
 
-> ![]["assets/images/owen.jpeg"]
+> ![Alt](/assets/images/owen.jpeg)
 
-
-Gideon was baffled; how could these K-hip-hop artists, after appropriating black culture by getting dreadlocks, incorporating ebonics, and greatly benefiting from shows like "Show Me The Money" (basically the K-hip-hop version of X Factor) - come out _against_ BLM? 
+Gideon was baffled; how could these K-hip-hop artists, after appropriating black culture by getting dreadlocks, incorporating ebonics, and greatly benefiting from shows like "Show Me The Money" (basically the K-hip-hop version of X Factor) - come out to verbalize they wouldn't support BLM? 
 
 Gideon used his account to voice these concerns. He Tweeted out,
 > "Why don't we use platforms to promote BLM for equity? We should discuss and participate in this as partakers in Afrocentric cultures."
@@ -214,10 +213,9 @@ He rejoined Twitter with a new handle when he started attending school in UCLA i
 
 In terms of differences in policy, Twitter in South Korea:
 * blocks any potential propaganda-like content from North Korea – hence, Gideon was unable to see posts from famous North Korean refugees until he came to the U.S.
-* requires a IPIN phone number verification + legally checks your DM's when provoked. Why? Well, after a [17-year-old girl kkidnapped and murdered an 8-year-old in Incheon, South Korea](https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C_%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D_%EC%82%B4%ED%95%B4_%EC%82%AC%EA%B1%B4){:target="_blank"} inspired by connections with Korean Hannibal Twitter (a community inspired by the show on Hannibal Lecter, the infamous cannibalistic serial killer), Korean Twitter policies enacted verification requirements and 
+* requires a IPIN phone number verification + legally checks your DM's when provoked. Why? Well, after a [17-year-old girl kkidnapped and murdered an 8-year-old in Incheon, South Korea](https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C_%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D_%EC%82%B4%ED%95%B4_%EC%82%AC%EA%B1%B4){:target="_blank"} inspired by connections with Korean Hannibal Twitter (a community inspired by the show on Hannibal Lecter, the infamous cannibalistic serial killer), Korean Twitter policies enacted verification requirements. Korean Twitter policies also allow for searching of DMs, as apparently the 17-yo murderer would receive DM's through Twitter to kill certain people.
 
-What he admires about Twitter
-Cons with mob mentality and fake news stories
-New policy on Twitter to approve for fact checks
+But he took on the role that even with new policy in place, it wasn't necessarily Twitter's fault. He said,
+> "It's not that Twitter made [people] act this way, but Twitter exposed people who act like this. It's not that social media changes people, but it rather reveals people."
 
 _**Synthesis.**_
