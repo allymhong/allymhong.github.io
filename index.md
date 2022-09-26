@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Home
+title: Welcome
 ---
 
 
-Check out my first blog post – my analysis and critique on Twitter, the widespread social media platform below:
+Check out my blog posts + assignments below :)
+
 
