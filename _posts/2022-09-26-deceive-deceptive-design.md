@@ -10,8 +10,8 @@ excerpt: "Can you deceive deceptive designs? Exploring how to finesse the finess
 tags: ["post", "blog", "lecture"]
 ---
 
-Seeing ads upon ads, forgetting to cancel free trials, and ending up with twenty more items in cart (_just where did these items come from??_)!!!! And don't even get me started with the 
-I wrote down in my notebook, 
+Seeing ads upon ads, forgetting to cancel free trials, and ending up with twenty more items in cart (_just where did these items come from??_)!!!! And don't even get me started with the in-app browsers... (PSA on that later).
+Mid-lecture, I wrote down in my notebook, 
 
 > "All these topics -> Bane of my social media usage." 
 
