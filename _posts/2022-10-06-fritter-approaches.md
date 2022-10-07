@@ -230,7 +230,7 @@ _**Actions**_.
 _**Purpose**_. To prevent the spread of sensitive content in Feeds without warning (and the spread of all sensitive content to users under 18), the sensitive content flag has been adjusted to be easily accessible when users create a Freet. Freets may be censored for language, generally 18+ content, graphic violence, nudity, and generally sensitive content. Users may flag their whole profiles to automatically have all of their Freets flagged, and their profiles unavailable to view for underage Fritter users – and censored for all other Fritter users.
 
 
-_**Operating Principle**_. When a user creates a Freet with sensitive content, or if the Freet contains foul language, or any of the above valid reasons for flagging, the user may easily flag their own content. Once their Freet is posted, it will either show up with a warning wall, blurring the contents of their Freet to relevant Feeds; users that are underage will automatically not be able to access their content.
+_**Operating Principle**_. When a user creates a Freet with sensitive content, or if the Freet contains foul language, or any of the above valid reasons for flagging, the user may easily flag their own content. Once their Freet is posted, it will either show up with a warning wall, blurring the contents of their Freet to relevant Feeds; users that are underage will automatically not be able to access their content. A user viewing a flagged Freet can either view the Freet, or hide the Freet from the Feed they are currently viewing. When a user self-censors their own profile, all their Freets will be automatically flagged and will not be shown for underage users.
 
 
 _**States**_.
@@ -247,6 +247,8 @@ _**States**_.
 _**Actions**_.
 * Self-flag Freet with Flagging options before or after posting.
 * Self-flag user profile with Flagging options to censor all Freets.
+* Uncensor: view the contents of censored Freet.
+* Hide: hide the censored Freet from current view of Feed.
 
 
 ## 7. Report.
@@ -350,6 +352,48 @@ Censoring Freets also affects what is displayed on certain User’s Feeds (remov
 
 
 # IV. Wireframes
+
+Exploring a few screenshots from my wireframes:
+
+## Adding Citations to a Freet
+Add citations to your Freet to back up any claims by tapping on the "Citations" icon (with quotations) and adding your URL to your site-ation.
+> ![Alt](/assets/images/fritter_converge/create_citations.png)
+
+## Main Page, the Personalized Feed
+This is the main personalized feed, dependent on users, hashtags, and citations you may follow. You can see here the first post uses #hashtags, and the second has the citation from above (in purple). If you tap on the purple link, it will lead you to the URL. 
+
+As written on the first Freet, you can explore the #hashtag feed by tapping on the hashtag; and you can explore the citation feeds by tapping on "Cited by 2 others..." below the purple citation itself. 
+> ![Alt](/assets/images/fritter_converge/home_page.png)
+
+
+## Explore Citations Feed
+Explore all other Freets that have linked the same citation. You can access this page through any Freet with the same citation, or by searching for the URL or citation name (by the title of the web-page and author, if applicable).
+> ![Alt](/assets/images/fritter_converge/citation_feed.png)
+
+## Explore Hashtag Feed
+Similarly, explore all Freets posted with a specific hashtag in the hashtag feed.
+> ![Alt](/assets/images/fritter_converge/hashtag_feed.png)
+
+## Creating a Freet with a Self-Censorship Flag
+Easily self-censor your Freets with the self-censorship flag icon on the bar above the keyboard. You can select what to flag the Freet for; in this case, the Freet contains vulgar language.
+> ![Alt](/assets/images/fritter_converge/create_self_flag.png)
+
+## Example of a Censored Freet on a Feed
+Here is the Freet from above that we self-flagged for language. As you can see, the Freet is visibly covered and noted to have been flagged for Language! This will warn users, and give users the option to Hide the Freet from the Feed they're currently viewing, or Show the Freet's contents.
+> ![Alt](/assets/images/fritter_converge/hidden_flagged_freet.png)
+
+
+Journey through more of my wireframes, starting with the creation of a post with Citations [at this Figma link here](https://www.figma.com/community/file/1160070566736241458){:target="_blank"}; or you can also view the embed of all the files below:
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fa8uh8pVnoeB4djO7JrAd5D%2FAlly's-Initial-Fritter-Wireframes%3Fnode-id%3D4%253A1224" allowfullscreen></iframe>
+
+
+Within this wireframe, I've included:
+* Various Feeds:
+    * Personalized Main Home Feed
+    * Citations Feed
+    * Hashtag Feed
+* Composing and Viewing a Freet with Citations, and
+* Composing and Viewing a Freet with Self-Censorship Flagging (for Language, in this case).
 
 
 
