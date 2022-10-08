@@ -31,3 +31,5 @@ _A Few Remainder Observations / Questions_
 
 
 Thanks so much for your Fritter Converge! It’s really easy to see how much care and thoughtfulness you really put into ideating and implementing your concepts – I’m excited to see your Fritter implementation very soon :) Hope my review was helpful and provided insight~ 😊
+
+For reference, [here is Gianna's A3: Fritter Converge](https://61040-fa22.github.io/portfolio-gtorpey/jekyll/update/2022/10/02/A3.html){:target="_blank"}
