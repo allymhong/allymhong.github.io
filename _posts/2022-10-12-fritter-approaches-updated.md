@@ -360,8 +360,8 @@ Easily report a Freet that is inappropriate on your Feed with the following opti
 Here is a Freet that has been reported. You can choose to show or hide the Freet with the fair warning of the report. Reported Freets will not show up on underage users' personalized Feeds.
 > ![Alt](/assets/images/fritter_converge_updated/view_reported_freet.png)
 
-Journey through more of my wireframes, starting with the creation of a post with Citations [at this Figma link here](https://www.figma.com/community/file/1160070566736241458){:target="_blank"}; or you can also view the embed of all the files below:
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fa8uh8pVnoeB4djO7JrAd5D%2FAlly's-Initial-Fritter-Wireframes%3Fnode-id%3D4%253A1224" allowfullscreen></iframe>
+Journey through more of my wireframes, starting with the creation of a post with Citations [at this Figma link here](https://www.figma.com/file/FyGYlfh5yL0PMIZxXcBXn1/Ally's-Updated-Wireframes?node-id=4%3A1224){:target="_blank"}; or you can also view the embed of all the files below:
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFyGYlfh5yL0PMIZxXcBXn1%2FAlly's-Updated-Wireframes%3Fnode-id%3D4%253A1224" allowfullscreen></iframe>
 
 
 Within this wireframe, I've included:
