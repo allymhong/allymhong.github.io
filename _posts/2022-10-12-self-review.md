@@ -96,7 +96,7 @@ Additionally, when reviewing my pitch, I realized that I was trying to squeeze i
         * Misleading Information (must be a Freet without Citations), 
         * Harmful Content Against Guidelines (is not for documentary or educational purposes; excessively gory),
         * Not Flagged Properly,
-        * Nude Content Against Guidelines (Fritter does not allow for full nudity; only hinted content);
+        * Nude Content Against Guidelines (Fritter does not allow for full nudity; this option is only available for content that has photos/videos);
         * Threatening Language,
         * Other
 
