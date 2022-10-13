@@ -25,8 +25,7 @@ Below is an outline of what I cover throughout Fritter Converge!
 5. [Citations. [Invention]](#5-citations-invention)
 6. [Self-Censorship (Sensitive Content Flag). [Adjusted]](#6-self-censorship-sensitive-content-flag-adjusted)
 7. [Report.](#7-report)
-8. [Bookmark. [Adjusted]](#8-bookmark-adjusted)
-9. [Upvote / Downvote. [Adopted]](#9-upvote--downvote-adopted)
+8. [Upvote / Downvote. [Adopted]](#8-upvote--downvote-adopted)
 
 
 ### III. [Our Synchronizations](#iii-synchronizations)
@@ -41,14 +40,13 @@ Below is an outline of what I cover throughout Fritter Converge!
 
 No need to fear. Fritter is near; it is a revolutionary social media platform that allows users to stay connected with each other and authentically communicate news, ideas, and thoughts to the world – with minimalized misinformation and properly flagged sensitive content.
 
-Fritter is the Fret-Free app that successfully tackles Twitter’s biggest issues with the lack of information transparency and user safety; on top of all this, Fritter even allows for accessibility within easily bookmarking important Freets. 
+Fritter is the Fret-Free app that successfully tackles Twitter’s biggest issues with the lack of information transparency and user safety.
 
 How? We open the doors for our users to:
-* easily cite their own Freets’ source of information; 
+* easily cite their own Freets’ source of information; and
 * efficiently censor their own Freets, protecting users who filter out sensitive content and warning users who don’t;
     * all flagged content will not be able to be accessed by underage users; and
-    * a specific censor for 18+ was added, which specifically is a filter that may not be sensitive for 18+ users, but will be for underage users;
-* and seamlessly bookmark essential Freets.
+    * a specific censor for 18+ was added, which specifically is a filter that may not be sensitive for 18+ users, but will be for underage users.
 
 Fritter is Fret-Free for a community of trusted users who value the transparency, quality, and safety of information in Freets. 
 
@@ -63,14 +61,14 @@ _**Operating Principle**_. When a user publishes a Freet, it is associated with 
 _**States**_.
 * Set of Freets posted by user who posted Freet
 * Timestamps of each Freet posted
-* Counts of Upvotes, Downvotes, Bookmarks, Replies, and ReFreets
+* Counts of Upvotes, Downvotes, and Replies
 * Linked Hashtags
 * Linked Citations
 * Status of Sensitive Content Flag (can be flagged for Nudity, Violence, Sensitive, Language, and/or 18+)
 * Pertaining Freet Replies…
     * If the Freet is a reply to another Freet: the parent Freet
     * If the Freet has replies from other Freets: the children Freets
-* Display Status: Active or Hidden
+* Display Status: Active, Censored, or Hidden
 * Report Status, when Freet is reported by Fritter users (status can be null, needing review, undergoing review, or reviewed)
     * Count of total Reports received
 
@@ -85,18 +83,14 @@ _**Actions**_.
         * if there are citations, post Freet i on each citation’s Feed
         * if there are hashtags, post Freet i on each hashtag’s Feed
         exception: if Freet i is flagged ~AT ALL~ (not just limited to the 18+ flag), and the viewer of the Freet is under 18 years old, the Freet will not be posted to the underage viewer’s Feed.
-    * update the ranking of Freets on all relevant Fritter Feeds, sorted by either the latest Freet using timestamps, or ranking by combination of counts of upvotes and ReFreets
+    * update the ranking of Freets on all relevant Fritter Feeds, sorted by either the latest Freet using timestamps, or ranking by combination of counts of upvotes/downvotes and Replies
 * Delete a Freet: user u deletes their own Freet j
-    * discard Freet j from set of posts associated with user u and user u’s profile, which synchronously deletes Freet j from all associated Feeds (to followers, hashtags, and citations) and users who have bookmarked the Freet
-    * make content of Freet unavailable within ReFreets
+    * discard Freet j from set of posts associated with user u and user u’s profile, which synchronously deletes Freet j from all associated Feeds (to followers, hashtags, and citations)
 * Reply to Freet: user u replies to Freet m with Freet n
     * similar to the process of “Create a Freet” for Freet n, except that Freet m and Freet n are now connected. Freet Replies may be viewed when user clicks on either Freet
         * Freet m is Freet n’s parent
         * Freet n is Freet m’s child
     * +1 to the Reply count for Freet m
-* ReFreet a Freet: user u reposts Freet m within Freet n
-    * similar to the process of “Create a Freet” for Freet n, except that Freet m is now embedded in the content of Freet n; it does not affect its character count or media limit
-    * +1 to the ReFreet count for Freet m
 
 
 ## 2. Follow.
@@ -124,47 +118,38 @@ _**Actions**_.
 
 
 ## 3. Fritter Feeds. [Adjusted]
-_**Purpose**_. Feeds are the collection of relevant Freets, for easy-viewing for users. Users have a main Fritter Feed on their homepage with an amalgam of other users, hashtags, and citations that they follow, as well as all their bookmarked Freets.
+_**Purpose**_. Feeds are the collection of relevant Freets, for easy-viewing for users. Users have a main Fritter Feed on their homepage with an amalgam of other users, hashtags, and citations that they follow.
 * Every user has their own Feed listing their own Freets on their profile.
 * Every existing hashtag has its own Feed of associated Freets.
 * Every existing citation has its own Feed of associated Freets.
-* Synchronization: Every user also has their own “Bookmarks” Feed of Bookmarked Freets.
 
 
-
-_**Operating Principle**_. Users may view their main Fritter Feed, which includes all the latest and/or most popular Freets from their following. Users may also view their own “Bookmarks” Feed, of their own Bookmarked Freets. Users may explore Feeds associated with specific hashtags, citations, and other users (through other users’ profiles).
+_**Operating Principle**_. Users may view their main Fritter Feed, which includes all the latest and/or most popular Freets from their following. Users may explore Feeds associated with specific hashtags, citations, and other users (through other users’ profiles).
 
 
 _**States**_.
 * The last time a user updated their Feed, or how much time has elapsed (as the Feed updates on its own – for a default of 5 minutes, which may be changed later in Settings)
 * Ranking Freets:
     * By order of timestamps
-    * By number of upvotes/downvotes and ReFreets
-* The set of posts associated with specific user profiles, hashtags, citations, and bookmarks
+    * By number of upvotes/downvotes and Replies
+* The set of posts associated with specific user profiles, hashtags, and citations
 
 
 _**Actions: inherently synchronized.**_.
 Update Feed: when user u refreshes a Feed or views a Feed for the first time in >5 minutes, the Feed will update with ranking dependent on:
 
 If Feed is personalized Feed for user, or for specific users profiles, hashtags, citations:
-* Ranking for these Feeds is determined by “Relevancy” (which is an algorithmic combination of latest Freets by timestamps, as well as Freets by counts with upvotes/downvotes and ReFreets), “Popularity” (only by counts), and “Latest” (only by timestamps)
+* Ranking for these Feeds is determined by “Popularity” (determined by counts of Upvotes/Downvotes with Replies) and “Latest” (only by timestamps)
 * Feed will stay updated with associated users, hashtags, and citations with this refresh, as well as who the user has followed and unfollowed
-* Feed will also stay updated with report status of specific Freets and Fritter users – if the statuses are “needing review” or “under review,” these Freets and Fritter users will not be shown in Feeds when updated
+* Feed will also stay updated with report status of specific Freets and Fritter users – if the statuses are “needing review” or “under review,” these Freets and Fritter users will be censored in Feeds when updated
     * As well as “display” status
-
-If Feed is for Bookmarks:
-* Updates when a user adds a Bookmark to a Freet with a Bookmark Icon.
-    * Ranking for Bookmark Feeds is determined by timestamp of when a user Bookmarked a post.
-* Does not matter if a user follows or does not follow user, hashtag, or citation; Bookmark Feeds do not update with this.
-    * Synchronized with Report status of Freets, though; will be hidden from Bookmarks list if Freet is “needing review,” or “under review.”
-* Feed will similarly stay updated with report status of specific Freets and Fritter users, as Feeds above.
 
 
 ## 4. User.
-_**Purpose**_. Identification, security, and gathering information in one account. If anyone wants to post to Fritter, or add their own upvote/downvote, ReFreet, bookmark, etc. – they must first create an account; when creating an account, the person must log in their information (name, username, biography) and enact 2-Factor authentication for security. Then, all published Freets by said person will be gathered by their Fritter account. Profile Feeds are then able to be created.
+_**Purpose**_. Identification, security, and gathering information in one account. If anyone wants to post to Fritter, or add their own upvote/downvote, etc. – they must first create an account; when creating an account, the person must log in their information (name, username, biography) and enact 2-Factor authentication for security. Then, all published Freets by said person will be gathered by their Fritter account. Profile Feeds are then able to be created.
 
 
-_**Operating Principle**_. When someone creates a Fritter User, they now have an official Fritter account used for identification and gathering of posted data in one place. Other Users may identify each other through this concept. Users have unique usernames and are able to interact on Freets through various ways – Upvote/Downvote, ReFreet, Bookmark, Report; post their own Freets, which will be linked on their profiles; as well as follow or unfollow other users, hashtags, and citations.
+_**Operating Principle**_. When someone creates a Fritter User, they now have an official Fritter account used for identification and gathering of posted data in one place. Other Users may identify each other through this concept. Users have unique usernames and are able to interact on Freets through various ways – Upvote/Downvote and Report; post their own Freets, which will be linked on their profiles; as well as follow or unfollow other users, hashtags, and citations.
 
 
 _**States**_.
@@ -179,7 +164,6 @@ _**States**_.
 * User Phone Number and/or Email for 2-Factor-Authentication
 * Following List: User may follow other users, hashtags, and citations
 * Followers List: a list of other users that follow the User
-* User’s personal Bookmarks feed
 * _#_ of Reports Received, # of Reports Given, # of Legitimate Reports Given
 * Self-Censorship Flag Status of Account
 
@@ -265,7 +249,7 @@ _**States**_.
     * _#_ of Reports a Freet, Fritter User, or Citation has received
     * _#_ of Reports a Fritter User has filed
     * _#_ of Reports were legitimate reports (after team reviews them)[^1]
-* Turnover Rate: (# of Reports a Fritter User has filed) / (# of Legitimate Reports)
+* Turnover Rate: (# of Legitimate Reports) / (# of Reports a Fritter User has Filed _**that have been reviewed**_)
     * Counting this in order to filter out users who spam or mass report Freets
 
 
@@ -284,9 +268,9 @@ _**Actions**_.
     * user u will have the option to block future Freets linking citation i
 
 **“Freet,” “Report,” and “Fritter Feed” Synchronizations**
-* Hide Freet from all relevant Feeds and the poster’s User Profile once placed “needing review” or  “under review”
-    * Once a Freet receives a review, it will automatically be hidden; but it will not be removed from the set of relevant Freets within a Feed
-    * Freet display status will now be “hidden”
+* Censor Freet from all relevant Feeds and the poster’s User Profile once placed “needing review” or  “under review”
+    * Once a Freet receives a review, it will automatically be censored, just as self-flagged Freets are, but with the reason that they are being reviewed; but it will not be removed from the set of relevant Freets within a Feed
+    * Freet display status will now be "censored"
 
 _System may be prone to change_[^2]
 * Delete Freet from all relevant Feeds and User Profile, when # of Freet Reports Received reaches x
@@ -298,26 +282,7 @@ _System may be prone to change_[^2]
 * Warning to Fritter User About Deletion: user u had been suspended previously, and received more reports (that is close to the maximum number of reports received, z)
 * Deletion of Fritter User Access: user u reaches # of z Reports Received
 
-## 8. Bookmark. [Adjusted]
-_**Purpose**_. Save a Freet for later viewing.
-
-
-_**Operating Principle**_. When a user bookmarks a Freet, the user is able to efficiently stow away a Freet for later viewing; the user will be able to view the Freet through accessing their “Bookmarks” Feed.
-
-
-_**States**_.
-* Timestamp that the user Bookmarks.
-* State of Freet: Bookmarked, or Not Bookmarked – if already in “Bookmarks” Feed.
-
-
-_**Actions**_.
-* Bookmark a Freet: timestamp of bookmark for a Freet recorded
-    * Synchronously added to Bookmarks Feed, by order of timestamp
-* Delete a Bookmark from a Freet: timestamp of bookmark for a Freet deleted
-    * Synchronously removed from Bookmarks Feed.
-
-
-## 9. Upvote / Downvote. [Adopted]
+## 8. Upvote / Downvote. [Adopted]
 _**Purpose**_. Rate a Freet with an “Upvote,” through which the user generally expresses approval, and/or a “yes;” or with a “Downvote,” through which the user generally expresses disapproval, and/or a “no.”
 
 _**Operating Principle**_. When a user Upvotes a Freet, the user expresses “+1” count of approval and/or “yes,” and the Freet is boosted upon ranking systems within Feeds for better viewing. When a User Downvotes a Freet, the user expresses “-1” count of approval, and/or “yes.” A Freet may only be Upvoted, Downvoted, or Un-voted (in which the user cancels their vote) – a user may not do all at once.
@@ -330,22 +295,21 @@ _**Actions**_.
 * Downvote a Freet
 * Unvote a Freet (by tapping on the same icon that is highlighted, or selected at that moment)
 
-Note: The Upvote / Downvote / Unvote metrics will affect the ranking of all Feeds (except Bookmarks Feeds).
+Note: The Upvote / Downvote / Unvote metrics will affect the ranking of all Feeds.
 
 # III. Synchronizations
 
-Explicit Synchronizations are mentioned:
+Explicit Synchronizations mentioned:
 * under the actions of [Concept (3): Fritter Feeds](#3-fritter-feeds-adjusted), and [Concept (7): Report](#7-report).
-* **To reduce the complexity of the interface, the Freets that a user has Bookmarked will make a type of “Fritter Feed” within itself, only utilizing the ranking by timestamps (rather than by counts of upvotes/downvotes, and ReFreets).**
 
 In summary: when users the report content to report a Freet, Fritter user, or citation, the view of Fritter Feeds are affected. 
-* Freets “under review” are hidden from all Feeds; 
+* Freets “under review” will be censored from Feeds and will show the reason it's being filtered; 
 * Fritter users “under review” are prone to get suspended, warned, or deleted from Fritter as a whole; and 
-* Citations are displayed to be “under review,” and removed from User’s personalized Feeds.
+* Citations are displayed to be “under review,” and be censored with warnings from User’s personalized Feeds.
 
 Posting Freets updates a user’s Feed; posting Freets with citations and/or hashtags updates both citation and hashtag feeds. 
 
-Upvoting, downvoting, and ReFreeting affect the ranking of Fritter Feeds.
+Upvoting and downvoting affect the ranking of Fritter Feeds.
 
 Censoring Freets also affects what is displayed on certain User’s Feeds (removed from underage Feeds), and how they are displayed (displayed with relevant warning).
 
@@ -363,16 +327,16 @@ Add citations to your Freet to back up any claims by tapping on the "Citations" 
 This is the main personalized feed, dependent on users, hashtags, and citations you may follow. You can see here the first post uses #hashtags, and the second has the citation from above (in purple). If you tap on the purple link, it will lead you to the URL. 
 
 As written on the first Freet, you can explore the #hashtag feed by tapping on the hashtag; and you can explore the citation feeds by tapping on "Cited by 2 others..." below the purple citation itself. 
-> ![Alt](/assets/images/fritter_converge/home_page.png)
+> ![Alt](/assets/images/fritter_converge_updated/home_page.png)
 
 
 ## Explore Citations Feed
-Explore all other Freets that have linked the same citation. You can access this page through any Freet with the same citation, or by searching for the URL or citation name (by the title of the web-page and author, if applicable).
-> ![Alt](/assets/images/fritter_converge/citation_feed.png)
+Explore all other Freets that have linked the same citation. You can access this page through any Freet with the same citation, or by searching for the URL or citation name (by the title of the web-page and author, if applicable). You can also report the citation if it is inappropriate.
+> ![Alt](/assets/images/fritter_converge_updated/citation_feed.png)
 
 ## Explore Hashtag Feed
 Similarly, explore all Freets posted with a specific hashtag in the hashtag feed.
-> ![Alt](/assets/images/fritter_converge/hashtag_feed.png)
+> ![Alt](/assets/images/fritter_converge_updated/hashtag_feed.png)
 
 ## Creating a Freet with a Self-Censorship Flag
 Easily self-censor your Freets with the self-censorship flag icon on the bar above the keyboard. You can select what to flag the Freet for; in this case, the Freet contains vulgar language.
@@ -380,8 +344,21 @@ Easily self-censor your Freets with the self-censorship flag icon on the bar abo
 
 ## Example of a Censored Freet on a Feed
 Here is the Freet from above that we self-flagged for language. As you can see, the Freet is visibly covered and noted to have been flagged for Language! This will warn users, and give users the option to Hide the Freet from the Feed they're currently viewing, or Show the Freet's contents.
-> ![Alt](/assets/images/fritter_converge/hidden_flagged_freet.png)
+> ![Alt](/assets/images/fritter_converge_updated/hidden_flagged_freet.png)
 
+## Example of Reporting Freet on a Feed
+Easily report a Freet that is inappropriate on your Feed with the following options: 
+* Misleading Information (must be a Freet without Citations), 
+* Harmful Content Against Guidelines (is not for documentary or educational purposes; excessively gory),
+* Not Flagged Properly,
+* Nude Content Against Guidelines (Fritter does not allow for full nudity; only relevant for photos/video content);
+* Threatening Language,
+* Other
+> ![Alt](/assets/images/fritter_converge_updated/report_freet.png)
+
+## Example of Viewing Freet Under Review
+Here is a Freet that has been reported. You can choose to show or hide the Freet with the fair warning of the report. Reported Freets will not show up on underage users' personalized Feeds.
+> ![Alt](/assets/images/fritter_converge_updated/view_reported_freet.png)
 
 Journey through more of my wireframes, starting with the creation of a post with Citations [at this Figma link here](https://www.figma.com/community/file/1160070566736241458){:target="_blank"}; or you can also view the embed of all the files below:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fa8uh8pVnoeB4djO7JrAd5D%2FAlly's-Initial-Fritter-Wireframes%3Fnode-id%3D4%253A1224" allowfullscreen></iframe>
@@ -404,7 +381,7 @@ Within this wireframe, I've included:
 **Two Extremes: Risking Safety? Or Overly Censored Media?** To improve upon Twitter’s lack of moderation of sensitive content, I tried to strike the right balance between ultimate censorship and freedom of speech. But what options will fit best? And what about addressing concerns from social media users like one of my interviewees, [Chiara](/../blog/2022/09/19/twitter-to-fritter.html#interview-chiara){:target="_blank"}, of protecting the youth from sensitive and vulgar content? By limiting underage users from seeing *any* self-flagged censored content, including language, I traded off Fritter’s youth’s freedom of speech and viewing of content, for robust user safety and trust in Fritter’s platform by adults who are wary of social media platforms. I hope to gain more feedback to achieve an even better balance, but Fritter’s priorities are user safety and building trust amongst users, over freer expression.
 
 
-**Privatizing Upvotes/Downvotes.** An essential Twitter feature is the “Likes” concept, which automatically bookmarks and displays all Tweets that a user has liked, on their user profile. Not only that, users are able to see who reacted to their Tweets. Fritter is prioritizing user privacy and anonymity in voting for Freets, by disabling the “Likes” feature – and adopting a more Reddit-like approach to upvoting and downvoting Freets. We are trading off user-tied Likes to show support and agreement for the hope of more unbiased voting systems, untied to the User’s image. Bookmarks are also privatized for User viewing. This change in feature is to prevent pressuring users from reacting, privatize interests, and prevent hopping on trends of virtue signaling (which is disingenuous).
+**Privatizing Upvotes/Downvotes.** An essential Twitter feature is the “Likes” concept, which automatically bookmarks and displays all Tweets that a user has liked, on their user profile. Not only that, users are able to see who reacted to their Tweets. Fritter is prioritizing user privacy and anonymity in voting for Freets, by disabling the “Likes” feature – and adopting a more Reddit-like approach to upvoting and downvoting Freets. We are trading off user-tied Likes to show support and agreement for the hope of more unbiased voting systems, untied to the User’s image. This change in feature is to prevent pressuring users from reacting, privatize interests, and prevent hopping on trends of virtue signaling (which is disingenuous).
 
 
 
