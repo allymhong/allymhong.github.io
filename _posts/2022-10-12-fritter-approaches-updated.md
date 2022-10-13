@@ -354,6 +354,7 @@ Easily report a Freet that is inappropriate on your Feed with the following opti
 * Nude Content Against Guidelines (Fritter does not allow for full nudity; only relevant for photos/video content);
 * Threatening Language,
 * Other
+
 > ![Alt](/assets/images/fritter_converge_updated/report_freet.png)
 
 ## Example of Viewing Freet Under Review
