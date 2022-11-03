@@ -7,7 +7,7 @@ author: Ally Minju
 excerpt: "Can't take off the developer or designer hat? No worries. I found a way that you don't need to fight it. Keep on the hat or hats."
 ---
 
-# Can’t Take Off the Developer or Designer Hat? Do you find it easy to find "creative problems"?
+aka, Can’t Take Off the Developer or Designer Hat? Do you find it easy to find "creative problems"?
 
 No worries. I found a way that you don’t need to fight it. Keep on the hat or hats. They look nice, 🚫🧢! How?
 
