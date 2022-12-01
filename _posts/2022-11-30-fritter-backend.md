@@ -10,6 +10,8 @@ excerpt: "Fritter's first release is finally here! Check out our Minimally Viabl
 
 Fritter's first release is finally here! [Check out our Minimally Viable Product here](https://fritter-backend-orcin.vercel.app/)!
 
+* [And here's my GitHub repo README.md file with all the API routing!](https://github.com/allymhong/fritter-backend/blob/main/README.md)
+
 **Abstract Data Models**.
 App Fritter + Concepts
     ![Alt](/assets/images/fritter_backend/1.png)
